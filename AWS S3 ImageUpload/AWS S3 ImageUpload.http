@@ -1,0 +1,6 @@
+@AWS_S3_ImageUpload_HostAddress = http://localhost:5253
+
+GET {{AWS_S3_ImageUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
